@@ -1,0 +1,5 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Root 5'tir sağında beşten büyük sayılar bulunur. Bunlar 6,7,8,9'dur. Solunda beşten küçük sayılar bulunur.Bunlar 0,1,2,3,4'tür. Bu fikir her satırda uygulanır taki büyük ve küçük sayılar tek kalana kadar. 
+                            
+                                  
